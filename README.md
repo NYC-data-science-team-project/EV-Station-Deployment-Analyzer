@@ -1,2 +1,3 @@
 # EV-Station-Deployment-Analyzer
+![walmart](https://github.com/NYC-data-science-team-project/EV-Station-Deployment-Analyzer/assets/114702251/aae490a7-ec53-451d-8fa7-507b2eed00e9)
 This machine learning project aims to identify optimal locations for new EV charging stations. By analyzing data on EV usage patterns, traffic, and other relevant factors, the project will generate insights on where new charging stations would have the greatest impact. The project will also explore predictive analytics to forecast future EV usage patterns and inform long-term infrastructure planning. The goal is to accelerate the transition to sustainable transportation by providing decision-makers with data-driven insights. 
