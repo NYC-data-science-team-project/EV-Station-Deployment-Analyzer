@@ -1,2 +1,2 @@
 # EV-Station-Deployment-Analyzer
-ML project to find prime EV charging locations, forecast usage and predict optimal new locations 
+This machine learning project aims to identify optimal locations for new EV charging stations. By analyzing data on EV usage patterns, traffic, and other relevant factors, the project will generate insights on where new charging stations would have the greatest impact. The project will also explore predictive analytics to forecast future EV usage patterns and inform long-term infrastructure planning. The goal is to accelerate the transition to sustainable transportation by providing decision-makers with data-driven insights. 
